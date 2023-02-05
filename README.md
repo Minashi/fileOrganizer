@@ -1,3 +1,3 @@
 # fileOrganizer
 
-Just a simple problem I made to move my files around
+Just a simple program I made to move my files around
